@@ -84,7 +84,7 @@ Salt Lake City, UT | #link("mailto:robertondino@outlook.com") | #link("https://g
 #mysec(
   [Led Fan Controller],[stats as a worm],[],[],
   [
-    - Show cpu, ram and gpu stats as a worm that goes in figure eights (extra tall) around your front 3 fans. Uses an arduino and some sketchy wiring with a molex connector
+    - Show cpu, ram and gpu stats as a worm that goes in figure eights (extra tall) around your front 3 fans. Uses an arduino and some sketchy wiring with a molex connector.
   ]
 )
 
