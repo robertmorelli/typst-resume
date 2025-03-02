@@ -5,10 +5,10 @@
 ]
 
 
-= Robert Morelli
+== Robert Morelli
 Salt Lake City, UT | #link("mailto:robertondino@outlook.com") | #link("https://github.com/robertmorelli") 
 
-== Education
+==== Education
 #line(length: 100%)
 #mysec(
   [University of Utah],
@@ -16,12 +16,12 @@ Salt Lake City, UT | #link("mailto:robertondino@outlook.com") | #link("https://g
   [Salt Lake City, UT],
   "2023 - 2026",
   [
-    - GPA: 2.235 $"¯\_(ツ)_/¯"$
+    - GPA: 2.235 $"¯\_(ツ)_/¯"$ (maybe I've got brain worms who knows)
     - CS Classes: Compilers, Operating Systems, Computer Systems, Algorithms Models of Computation, Software Practive I/II, Research Forum (idk why I'm including this, you don't care)\
   ]
 )
 
-== Work Experience
+==== Work Experience
 #line(length: 100%)
 
 #mysec(
@@ -50,17 +50,7 @@ Salt Lake City, UT | #link("mailto:robertondino@outlook.com") | #link("https://g
   [Lehi, UT],
   "2019 - 2019",
   [
-    - Web scraping, angular lil app, laravel
-  ]
-)
-
-#mysec(
-  [Web Development Intern],
-  [Frelii],
-  [Lehi, UT],
-  "2019 - 2019",
-  [
-    - Web scraping, angular lil app, laravel
+    - Web scraping (beautiful soup), lil tiny web app that did nothing (angular), laravel
   ]
 )
 
@@ -74,17 +64,31 @@ Salt Lake City, UT | #link("mailto:robertondino@outlook.com") | #link("https://g
   ]
 )
 
-== Projects
+==== Projects
 #line(length: 100%)
 
 #mysec(
   [Funny little animation maker],[like ms paint],[],[],
   [
-    - Makes funny animations and is kinda like ms paint
+    - ms paint-like animations... exceedingly good if you want to make funny little worms
   ]
 )
 
-== Skills
+#mysec(
+  [Garbage Script],[a bad language for doing web dev],[],[],
+  [
+    - css-like syntax to bind events, define complex events in terms of simple events and regular expressions (nothing could possibly go wrong with this)
+  ]
+)
+
+#mysec(
+  [Led Fan Controller],[stats as a worm],[],[],
+  [
+    - Show cpu, ram and gpu stats as a worm that goes in figure eights (extra tall) around your front 3 fans. Uses an arduino and some sketchy wiring with a molex connector
+  ]
+)
+
+==== Skills
 #line(length: 100%)
 - *Programming Languages*: JavaScript, Python, C/C++, Java, Sh Scripting, Dart
 - *Technologies*: Angular, Git, Gh Cli, Gh Actions, Circle CI
