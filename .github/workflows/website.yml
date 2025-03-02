@@ -1,0 +1,17 @@
+name: Website from typst
+
+on: push
+
+jobs:
+  compiles:
+    name: "make website"
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: typst-community/setup-typst@v4
+        with:
+          typst-version: latest
+          allow-prereleases: true
+      - name: "make website"
+        run: make website
+  
